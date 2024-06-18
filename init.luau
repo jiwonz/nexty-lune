@@ -1,7 +1,7 @@
 local Net = require("@lune/net")
 local FS = require("@lune/fs")
 local ArgParse = require("submodules/argparse")
-local LuauPath = require("packages/luau-path/src")
+local LuauPath = require("submodules/luau-path/src")
 
 local main = ArgParse("nexty-lune")
 local dev = main:command("dev", "Run a dev server")
