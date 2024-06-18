@@ -1,6 +1,3 @@
 [submodule "submodules/argparse"]
 	path = submodules/argparse
 	url = https://github.com/jiwonz/argparse-lune.git
-[submodule "submodules/luau-path"]
-	path = submodules/luau-path
-	url = https://github.com/seaofvoices/luau-path.git

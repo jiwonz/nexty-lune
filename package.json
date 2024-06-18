@@ -1,0 +1,19 @@
+{
+  "name": "nexty-lune",
+  "version": "0.1.0",
+  "description": "- `@lune/net` wrapper inspired to [next.js](https://github.com/vercel/next.js)\r - Use your file system to serve your APIs and static files similar to next.js",
+  "main": "init.luau",
+  "author": "jiwonz",
+  "license": "ISC",
+  "scripts": {
+    "prepare": "npmluau"
+  },
+  "devDependencies": {
+    "npmluau": "^0.1.1"
+  },
+  "dependencies": {
+    "luau-path": "^0.1.0",
+    "react": "^18.3.1",
+    "react-scripts": "^5.0.1"
+  }
+}
